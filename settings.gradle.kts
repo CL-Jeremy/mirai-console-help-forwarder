@@ -6,5 +6,4 @@ pluginManagement {
         maven("https://dl.bintray.com/kotlin/kotlin-eap")
     }
 }
-rootProject.name = "mirai-console-example-plugin"
-
+rootProject.name = "mirai-console-help-forwarder"
